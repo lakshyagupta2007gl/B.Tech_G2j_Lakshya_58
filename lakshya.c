@@ -1,4 +1,4 @@
-/ Online C compiler to run C program online
+
 program 6
 #include <stdio.h>
 
@@ -80,4 +80,5 @@ else if(per>=80 && per<90);
 }
 
     return 0;
+
 } 
